@@ -34,7 +34,7 @@
 
 Some code that I find good and like to acquire and save throughout my journey
 
-<p align="center">[CODE](other/goodcode.md)</p>
+[CODE](other/goodcode.md)
 ---
 ⭐️ From [TahaYasserAdnan](https://github.com/TahaYasserAdnan)
 
