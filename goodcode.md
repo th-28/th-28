@@ -1,4 +1,4 @@
-# <p align="center>GOOD CODE</p>
+# <p align="center">GOOD CODE</p>
 
 In this file I try to save good code I acquire throughout my journey
 
