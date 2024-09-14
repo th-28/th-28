@@ -36,5 +36,5 @@ Some code that I find good and like to acquire and save throughout my journey
 
 [CODE](other/goodcode.md)
 ---
-⭐️ From [TahaYasserAdnan](https://github.com/TahaYasserAdnan)
+⭐️ From [Taha Yasser Adnan](https://github.com/tahadnan)
 
