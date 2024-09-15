@@ -39,6 +39,7 @@ def rot13(message):
 ## Clear screen func:
 A func that can be added to a python script, especially python CLI apps, for all OSs.
 ```python
+import os
 def clear_screen():
     # For Windows
     if os.name == 'nt':
