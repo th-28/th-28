@@ -38,11 +38,15 @@ Some code that I find good and like to acquire and save throughout my journey
 
 <div align='center' >
 
-![tahadnan's Stats](https://github-readme-stats.vercel.app/api?username=tahadnan&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![tahadnan's Stats](https://github-readme-stats.vercel.app/api?username=tahadnan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+<div align='center'>
+
+## [CODE](other/goodcode.md)  
+## [WWWH](other/WWWH.md)
 
 </div>
 
-[CODE](other/goodcode.md)
----
 ⭐️ From [Taha Yasser Adnan](https://github.com/tahadnan)
 
