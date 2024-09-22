@@ -17,7 +17,7 @@ def rps(p1, p2):
 Rot13 is a simple letter substitution cipher that replaces each letter with the letter 13 positions ahead of it in the alphabet. In other words, it's a Caesar cipher with a shift of 13. For example, the letter "a" becomes "n", "b" becomes "o", and so on. This means that if you have a message that uses only letters, you can easily decode it by shifting each letter back 13 positions.
 
 <center>
-  <img src="caesar_cipher.gif" alt="Caesar cipher image" style="width: 400px; height: 400px; margin: 0 auto; display: block;">
+  <img src="assets/caesar_cipher.gif" alt="Caesar cipher image" style="width: 400px; height: 400px; margin: 0 auto; display: block;">
 </center>
 
 ```python

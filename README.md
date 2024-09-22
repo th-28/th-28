@@ -34,6 +34,10 @@
 
 Some code that I find good and like to acquire and save throughout my journey
 
+## Stats:
+
+![tahadnan's Stats](https://github-readme-stats.vercel.app/api?username=tahadnan&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+
 [CODE](other/goodcode.md)
 ---
 ⭐️ From [Taha Yasser Adnan](https://github.com/tahadnan)
