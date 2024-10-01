@@ -14,4 +14,3 @@ WWWH is a simple yet powerful learning framework that helps me thoroughly unders
 - **How**: Demonstrate its implementation
 
 By consistently applying this protocol, I aim to build a comprehensive knowledge base that not only helps me retain information but also serves as a quick reference for future projects.
-

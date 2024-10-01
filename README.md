@@ -32,7 +32,12 @@
 
 ## Good code:
 
-Some code that I find good and like to acquire and save throughout my journey
+Some code that I find good and like to acquire and save throughout my journey.
+<div align='center'>
+
+## [CODE](other/goodcode.md)
+
+</div>
 
 ## Stats:
 
@@ -41,11 +46,11 @@ Some code that I find good and like to acquire and save throughout my journey
 ![tahadnan's Stats](https://github-readme-stats.vercel.app/api?username=tahadnan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 </div>
+
+## The WWWH protocol:
 <div align='center'>
-
-## [CODE](other/goodcode.md)  
-## [WWWH](other/WWWH.md)
-
+  
+## [WWWH](other/WWWH.md) 
 </div>
 
 ⭐️ From [Taha Yasser Adnan](https://github.com/tahadnan)
