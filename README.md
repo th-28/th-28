@@ -26,9 +26,9 @@
 - Python programming
 
 ## Connect with Me
-- [Twitter](https://x.com/Taha28Atlas)
-- [Instagram](https://www.instagram.com/tyarustgatts/)
-- GMAIL: tahacodes.101@gmail.com
+- [Twitter](https://x.com/TahaYasserAdnan)
+- [Instagram](https://www.instagram.com/tahayadnan)
+- GMAIL: taha.y.adnan@gmail.com
 
 ## Good code:
 
@@ -49,7 +49,7 @@ Some code that I find good and like to acquire and save throughout my journey.
 
 ## The WWWH protocol:
 <div align='center'>
-  
+
 ## [WWWH](other/WWWH.md) 
 </div>
 
