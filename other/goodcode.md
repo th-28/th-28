@@ -48,3 +48,15 @@ def clear_screen():
     else:
         _ = os.system('clear')
 ```
+
+## A clever kata solution:
+The problem:  
+
+> In this kata you are required to, given a string, replace every letter with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it.
+
+The clever [solution](https://www.codewars.com/kata/reviews/546f92300e7b08fe6100001c/groups/546f995f304c12f1e00002b2):
+
+```python
+def alphabet_position(text):
+    return ' '.join(str(ord(c) - 96) for c in text.lower() if c.isalpha())
+```
